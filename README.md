@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full-Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
+  <img src="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094" width="600" />
 </p>
 
 <p align="center">
