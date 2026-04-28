@@ -71,9 +71,9 @@
 
 ## Let's Connect
 <p align="center">
-  <a href="mailto:ivanjustinblas@example.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
-  <a href="https://github.com/LynxBlood">GitHub</a>
+  <img src="https://skillicons.dev/icons?i=github" />](https://github.com/Lynxblood)
+  <img src="https://skillicons.dev/icons?i=linkin" />](https://github.com/Lynxblood)
+  <img src="https://skillicons.dev/icons?i=mail" />](https://github.com/Lynxblood)
 </p>
 
 ---
