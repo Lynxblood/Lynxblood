@@ -47,9 +47,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LynxBlood&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LynxBlood&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LynxBlood&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LynxBlood&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" />
 </p>
 
 ---
