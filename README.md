@@ -71,9 +71,9 @@
 
 ## Let's Connect
 <p align="center">
-  [<img src="https://skillicons.dev/icons?i=github" />](https://github.com/Lynxblood)
-  [<img src="https://skillicons.dev/icons?i=linkedin" />](mailto:ivanjustinblas@gmail.com)
-  [<img src="https://skillicons.dev/icons?i=gmail" />](https://webcreax.com/)
+  <img src="https://skillicons.dev/icons?i=github" />(https://github.com/Lynxblood)
+  <img src="https://skillicons.dev/icons?i=linkedin" />(mailto:ivanjustinblas@gmail.com)
+  <img src="https://skillicons.dev/icons?i=gmail" />(https://webcreax.com/)
 </p>
 
 ---
