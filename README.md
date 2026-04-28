@@ -80,6 +80,6 @@
 
 ---
 
-<p align="center">
- **"Code. Learn. Build. Repeat."**
-</p>
+<div align="center">
+ *"Code. Learn. Build. Repeat."*
+</div>
