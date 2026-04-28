@@ -13,40 +13,45 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 🖥️ Web Development
+### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs,jquery,firebase" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,react,express" />
 </p>
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp" />
 </p>
 
+### others
+<p>
+  <img src="https://skillicons.dev/icons?i=github,figma" />
+</p>
+
 ---
 
-## 🛠️ IT & System Skills
+## IT & System Skills
 - System Installation & Configuration  
 - User Support & Troubleshooting  
 - Hardware & Software Maintenance  
 
 ---
 
-## 🌐 Additional Skills
+## Additional Skills
 - Basic Networking (IP Addressing, DNS, DHCP)  
 - Google Workspace  
 - Photo & Video Editing  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynxblood&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   <br> 
@@ -55,7 +60,7 @@
 </p>
 ---
 
-## 🎯 What I Do
+## What I Do
 ✔️ Build Full-Stack Web Applications  
 ✔️ Develop REST APIs  
 ✔️ Create Responsive UI/UX  
@@ -64,7 +69,7 @@
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 <p align="center">
   <a href="mailto:ivanjustinblas@example.com">📧 Email</a> •
   <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
@@ -74,5 +79,5 @@
 ---
 
 <p align="center">
-  ⭐ *"Code. Learn. Build. Repeat."*
+ *"Code. Learn. Build. Repeat."*
 </p>
