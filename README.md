@@ -1,7 +1,5 @@
 <div align="center">
 
-### < Full Stack Developer />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React+%7C+Laravel+%7C+Node.js+%7C+Express+Js;Full-Stack+Web+Developer;Building+Scalable+Web+Applications;Turning+Ideas+into+Functional+Systems;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
