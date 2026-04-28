@@ -47,9 +47,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LynxBlood&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LynxBlood&theme=tokyonight" />
 </p>
 
 ---
@@ -65,9 +65,9 @@
 
 ## 📫 Let's Connect
 <p align="center">
-  <a href="mailto:your_email@example.com">📧 Email</a> •
+  <a href="mailto:ivanjustinblas@example.com">📧 Email</a> •
   <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  <a href="https://github.com/LynxBlood">GitHub</a>
 </p>
 
 ---
