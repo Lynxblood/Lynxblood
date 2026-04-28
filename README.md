@@ -2,7 +2,7 @@
 
 ### < Full Stack Developer />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%92%BB;React+%7C+Laravel+%7C+Node.js+%7C+Express;Building+clean+%26+scalable+web+apps;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React+%7C+Laravel+%7C+Node.js+%7C+Express+Js;Full-Stack+Web+Developer;Building+Scalable+Web+Applications;Turning+Ideas+into+Functional+Systems;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
