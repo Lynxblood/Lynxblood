@@ -51,7 +51,7 @@
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynxblood&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   <br> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lynxblood&theme=tokyonight" />
 </p>
 ---
 
