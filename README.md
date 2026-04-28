@@ -84,6 +84,6 @@
   
  *Code. Learn. Build. Repeat.*
  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Lynxblood&color=FFBB8A&style=flat&abbreviated=true&label=Views)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Lynxblood&color=lightgray&style=flat&abbreviated=true&label=Views)
   
 </div>
