@@ -22,7 +22,7 @@
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,express,node" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,express" />
 </p>
 
 ### Programming Languages
