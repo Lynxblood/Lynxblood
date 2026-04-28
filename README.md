@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full-Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV5cHA3M29ydXh0NWpzNnB3azd1cjVrZzR5M3kyc3pqaGhqeTA5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
 </p>
 
 <p align="center">
