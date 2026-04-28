@@ -17,7 +17,7 @@
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs,jquery,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs,jquery,firebase,tailwind,bootstrap" />
 </p>
 
 ### Frameworks & Libraries
