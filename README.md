@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Red</h1>
+<h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">💻 Full-Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
+  <img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d0dnV1NHp5OWRtejRweGZtdjgxeDZnMnBkM3J2NG1zajRseGE4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)" width="600" />
 </p>
 
 <p align="center">
