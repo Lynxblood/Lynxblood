@@ -72,7 +72,7 @@
   
   [<img src="https://skillicons.dev/icons?i=github" />](https://github.com/Lynxblood)
   [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:ivanjustinblas@gmail.com)
-  [<img src="https://skillicons.dev/icons?i=linkedin" />](https://webcreax.com/)
+  [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/blas-ivan-justin-l-829686406/)
   
 </div>
 
