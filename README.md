@@ -81,5 +81,7 @@
 ---
 
 <div align="center">
+
+  [Visitor Count](https://komarev.com/ghpvc/?username=Lynxblood&color=F54927&style=flat&abbreviated=true&label=Views)
  *Code. Learn. Build. Repeat.*
 </div>
