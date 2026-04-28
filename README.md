@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Red</h1>
+<h3 align="center">💻 Full-Stack Web Developer</h3>
 
-<!--
-**Lynxblood/Lynxblood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate about building scalable web applications and solving real-world problems.<br>
+  I work on both front-end and back-end, and I enjoy learning new technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### 🖥️ Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,react,express" />
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+</p>
+
+---
+
+## 🛠️ IT & System Skills
+- System Installation & Configuration  
+- User Support & Troubleshooting  
+- Hardware & Software Maintenance  
+
+---
+
+## 🌐 Additional Skills
+- Basic Networking (IP Addressing, DNS, DHCP)  
+- Google Workspace  
+- Photo & Video Editing  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 What I Do
+✔️ Build Full-Stack Web Applications  
+✔️ Develop REST APIs  
+✔️ Create Responsive UI/UX  
+✔️ Manage Databases & Backend Logic  
+✔️ Provide IT Support & Maintenance  
+
+---
+
+## 📫 Let's Connect
+<p align="center">
+  <a href="mailto:your_email@example.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ *"Code. Learn. Build. Repeat."*
+</p>
